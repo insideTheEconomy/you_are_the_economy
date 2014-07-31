@@ -10,11 +10,11 @@ module.exports = function(grunt) {
 	        linux64: false, // We don't need linux64
 			keep_nw: true
 	    },
-	    src: ['.app/**/*']
+	    src: ['./app/**/*']
 	},
 	});
 	
 	grunt.loadNpmTasks('grunt-node-webkit-builder');
 	grunt.registerTask('default', ['nodewebkit']);
-
+	grunt.log.ok()
 };
