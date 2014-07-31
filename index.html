@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<script src="jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="yate.js" type="text/javascript"></script>
+<link href="styles.css" rel="stylesheet" type="text/css">
+
+</head>
+<body onLoad='initializeMe()'>
+  <div class="container">
+  	<div id="visualaccess">&nbsp;</div>
+
+    <div id="icoscreen">
+      <h1>What Will You Do This Week?</h1>
+      <div id="icomatrix">
+        <div id="bicycle" class="ico">
+          <div class="front"><img src="images/icons/bicycle.png" width="159" height="159" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="shopping" class="ico">
+          <div class="front"><img src="images/icons/shopping.png" width="159" height="159" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="school" class="ico">
+          <div class="front"><img src="images/icons/school.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="transportation" class="ico">
+          <div class="front"><img src="images/icons/transportation.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="dog" class="ico">
+          <div class="front"><img src="images/icons/dog.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="daycare" class="ico">
+          <div class="front"><img src="images/icons/daycare.png" width="159" height="159" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="vacation" class="ico">
+          <div class="front"><img src="images/icons/vacation.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="restaurant" class="ico">
+          <div class="front"><img src="images/icons/restaurant.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="paint" class="ico">
+          <div class="front"><img src="images/icons/paint.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="soccer" class="ico">
+          <div class="front"><img src="images/icons/soccer.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="movie" class="ico">
+          <div class="front"><img src="images/icons/movie.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="golf" class="ico">
+          <div class="front"><img src="images/icons/golf.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="game" class="ico">
+          <div class="front"><img src="images/icons/game.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="garden" class="ico">
+          <div class="front"><img src="images/icons/garden.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+        <div id="doctor" class="ico">
+          <div class="front"><img src="images/icons/doctor.png" width="149" height="149" alt=""/></div>
+          <div class="back"><h3></h3></div>
+        </div>
+      </div><!--#icomatrix-->
+      <h2>Choose an Activity</h2>
+    </div><!--#icoscreen-->
+    <div id="popTopic" style="width:1024px;height:768px;">
+    	<div id="topbox">
+      	<div id="pic"></div>
+      	<h4></h4>
+        <div id="choiceBox">
+        	 <div id="choices">
+            <div class="choice">
+              <div class="infoBody"></div>
+              <div class="infoCredit"></div>
+            </div>
+            <div class="choice">
+              <div class="infoBody"></div>
+              <div class="infoCredit"></div>
+            </div>
+            <div class="choice">
+              <div class="infoBody"></div>
+              <div class="infoCredit"></div>
+            </div>
+            <div class="choice">
+              <div class="infoBody"></div>
+              <div class="infoCredit"></div>
+            </div>
+          </div><!--#choices-->
+        </div><!--#choiceBox-->
+        <div id="choiceButtons">
+          <button type=button id='button1' class="selected" >1</button>
+          <button type=button id='button2' >2</button>
+          <button type=button id='button3' >3</button>
+          <button type=button id='button4' >4</button>
+        </div>
+        <button type=button name='closeMe' id="closeButton" >x</button>
+      </div><!--#topbox-->
+    </div><!--#popTopic-->
+  </div><!--.container-->
+  <div id="data1"></div>
+  <div id="data2"></div>
+  <audio id = "clickA" style="display: none;" src="sounds/onClick.mp3"></audio>
+  <audio id = "clickB" style="display: none;" src="sounds/offClick.mp3"></audio>
+</body>
+</html>
