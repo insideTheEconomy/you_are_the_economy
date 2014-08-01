@@ -41,6 +41,12 @@ function initializeMe() {
 				gui.App.quit();
 			} else if (e.which == 119) { //'w'
 				gui.Window.get().leaveKioskMode();
+			} else if (e.which == 109) { //'m'
+				if ($("body").hasClass("hidemouse")) {
+					$("body").removeClass("hidemouse");
+				} else {
+					$("body").addClass("hidemouse");
+				}
 			} else if (e.which == 100) { //'d'
 				//environment.nodeWebKit = (typeof(process) === 'object' && process.features.uv) ? true : false;s
 				//if (environment.nodeWebKit === true) 

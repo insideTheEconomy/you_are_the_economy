@@ -13,6 +13,8 @@
 #data1, #data2 {  color:white;    }
 body { margin:0px; background:#000 url(images/YATE-BG.jpg) no-repeat center top; 	-webkit-user-select: none; }
 
+.hidemouse *, .hidemouse a { cursor:none;  }
+
 .container {
 	position:relative;
 	width:968px;
