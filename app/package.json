@@ -6,7 +6,7 @@
   "keywords": [ "monadnock", "node-webkit" ],
   "window": {
     "title": "node-webkit demo",
-    "toolbar": true,
+    "toolbar": false,
     "frame": true,
     "width": 1024,
     "height": 768,

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Debug</key>
+	<true/>
+	<key>Label</key>
+	<string>org.monadnock.yate</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>open</string>
+		<string>/Users/YouAreEconomy01/exhibit/you_are_the_economy.app</string>
+	</array>
+	<key>RunAtLoad</key>
+	<true/>
+</dict>
+</plist>
+
+<!-- @@@@LingonWhatStart:open /Users/nestor/exhibit/you_are_the_economy.app@@@@LingonWhatEnd -->
