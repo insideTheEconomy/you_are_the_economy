@@ -8,6 +8,7 @@ function initializeMe() {
 	$( document ).ready(function() {
 		//document.getElementById("fullscreen").webkitRequestFullScreen;
 		
+		
 		var gui = require('nw.gui');
 		gui.Window.get().enterKioskMode();
 
