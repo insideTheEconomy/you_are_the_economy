@@ -8,12 +8,9 @@ function initializeMe() {
 	$( document ).ready(function() {
 		//document.getElementById("fullscreen").webkitRequestFullScreen;
 		
-		
-		var gui = require('nw.gui');
+/*		var gui = require('nw.gui');
 		gui.Window.get().enterKioskMode();
-
-
-
+*/
 		// Handler for .ready() called.
 		flippoolIDs = chipicons.slice(0);
 	  $.support.cors = true;
