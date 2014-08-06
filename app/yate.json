@@ -39,7 +39,6 @@
             "option3":"<p>Employment in the U.S. apparel manufacturing industry has declined from about 900,000 jobs in 1990 to 150,000 in 2011.</p>",
             "option3b":"<span>Source: </span>Bicycle Dealers Association, 2012",
 
-            
             "option4":"<p>Fashion accounts for roughly 39% of teen budgets.</p>",
             "option4b":"<span>Source: </span>Piper Jaffray Market Research, 2013"
 
@@ -57,8 +56,10 @@
             "option2b":"<span>Source: </span>National Retail Federation with Prosper Insights & Analytics, 2013",
                         
             "option3":"<p>Schools employ teachers, bus drivers, food service workers, facilities workers, healthcare workers, and many more.</p>",
-                        
-            "option4":"<p>Schools buy goods and services, such as textbooks, desks, computers, and whiteboards which add to the overall economy.</p>"
+            "option3b":" ",
+		                
+            "option4":"<p>Schools buy goods and services, such as textbooks, desks, computers, and whiteboards which add to the overall economy.</p>",
+            "option4b":" "
          },
          {
             "myId":"3",
@@ -92,10 +93,10 @@
             "option2b":"<span>Source: </span>American Pet Products Association",
                         
             "option3":"<p>In 2013, Americans spent an estimated $330 million on Halloween costumes for their pets.</p>",
-              "option3b":"<span>Source: </span>National Retail Federation",
+            "option3b":"<span>Source: </span>National Retail Federation",
             
             "option4":"<p>Pet food and treat sales are more than $20 billion a year in the United States.</p>",
-              "option3b":"<span>Source: </span>American Pet Products Association"
+            "option4b":"<span>Source: </span>American Pet Products Association"
 
 
            
@@ -156,7 +157,6 @@
             "option3":"<p>The U.S. employs just over 1 million restaurant cooks who earn an average of $11.20/hour.</p>",
             "option3b":"<span>Source: </span>U.S. Dept. of Labor, BLS,  May 2012",
 
-                        
             "option4":"<p>Consumers spend 40% of their food costs on eating out.</p>",
             "option4b":"<span>Source: </span>Bureau of Labor Statistics, 2012"
          },
@@ -175,7 +175,6 @@
                         
             "option3":"<p>The U.S. paint and coatings manufacturing industry has combined annual sales of about $22 billion. House paint represents about 40% of industry revenue.</p>",
             "option3b":"<span>Source: </span>Paint and Coatings Industry Manufacturing Profile, 2014",
-
                         
             "option4":"<p>In addition to construction and automotive, other industries that use paints and coatings include marine, wooden furniture, steel, and general industry.</p>",
             "option4b":"<span>Source: </span>Global Paints and Coatings Market Report, 2013"
@@ -196,7 +195,6 @@
                         
             "option3":"<p>It's estimated that at least 35 million kids between 5 and 18 currently play an organized sport each year in the U.S. Of that, 21 million are involved in non-school youth sports.</p>",
             "option3b":"<span>Source: </span>Minnesota Amateur Sports Commission, Athletic Footwear Association, USA Today",
-
                         
             "option4":"<p>In 2012, an estimated 1.3 million children sustained a sports-related injury severe enough to send them to a hospital emergency room, at a total cost of $935 million-plus annually.</p>",
             "option4b":"<span>Source: </span>Centers for Disease Control and Prevention"
@@ -239,7 +237,7 @@
 
            
             "option4":"<p>There were an estimated 463 million rounds of golf played in the U.S. in 2011.</p>",
-             "option4b":"<span>Source: </span>National Golf Foundation"
+            "option4b":"<span>Source: </span>National Golf Foundation"
 
 
           },
