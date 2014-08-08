@@ -33,11 +33,11 @@
             "option1":"<p>Americans spend around $500 billion on clothes and shoes each month.</p>",
             "option1b":"<span>Source: </span>Bureau of Economic Analysis",
                         
-            "option2":"<p>In 2010, the average household spent $1700 on apparel, footwear, and related products.</p>",
+            "option2":"<p>In 2010, the average household spent $1,700 on apparel, footwear and related products.</p>",
             "option2b":"<span>Source: </span>U.S. Bureau of Labor Statistics",
                         
             "option3":"<p>Employment in the U.S. apparel manufacturing industry has declined from about 900,000 jobs in 1990 to 150,000 in 2011.</p>",
-            "option3b":"<span>Source: </span>Bicycle Dealers Association, 2012",
+            "option3b":"<span>Source: </span>U.S. Bureau of Labor Statistics",
 
             "option4":"<p>Fashion accounts for roughly 39% of teen budgets.</p>",
             "option4b":"<span>Source: </span>Piper Jaffray Market Research, 2013"
@@ -52,13 +52,13 @@
             "option1":"<p>High-quality schools can increase the value of nearby homes.</p>",
             "option1b":"<span>Source: </span><em>Federal Reserve Bank of St. Louis Review,</em> May/June 2010",
                         
-            "option2":"<p>The average household with school age children spends more than $600 on back-to-school apparel, shoes, supplies, and electronics each year.</p>",
+            "option2":"<p>The average household with school-age children spends more than $600 on back-to-school apparel, shoes, supplies and electronics each year.</p>",
             "option2b":"<span>Source: </span>National Retail Federation with Prosper Insights & Analytics, 2013",
                         
-            "option3":"<p>Schools employ teachers, bus drivers, food service workers, facilities workers, healthcare workers, and many more.</p>",
+            "option3":"<p>Schools employ teachers, bus drivers, food service workers, facilities workers, healthcare workers and many more.</p>",
             "option3b":" ",
 		                
-            "option4":"<p>Schools buy goods and services, such as textbooks, desks, computers, and whiteboards which add to the overall economy.</p>",
+            "option4":"<p>Schools buy goods and services, such as textbooks, desks, computers and whiteboards, which add to the overall economy.</p>",
             "option4b":" "
          },
          {
@@ -70,13 +70,13 @@
             "option1":"<p>The average commute in 2009 was 11.8 miles and took 24 minutes.</p>",
             "option1b":"<span>Source: </span>U.S. Dept. of Transportation",
                         
-            "option2":"<p>Atlanta is the #1 airport in the world, with over 90 million passengers in 2012.</p>",
+            "option2":"<p>Atlanta is the busiest airport in the world, with over 90 million passengers in 2012.</p>",
             "option2b":"<span>Source: </span>U.S. Dept. of Transportation",
                         
             "option3":"<p>Transportation spending consumed 10% of the U.S. GDP in 2011.</p>",
             "option3b":"<span>Source: </span>U.S. Dept. of Transportation",
 
-            "option4":"<p>Transportation and related industries employed 12,305,000 workers in 2011.</p>",
+            "option4":"<p>Transportation and related industries employed 12.3 million workers in 2011.</p>",
             "option4b":"<span>Source: </span>U.S. Dept. of Transportation"
 
          },
@@ -107,10 +107,10 @@
             "buttonText":"Take&nbsp;child<br />to<br />child&nbsp;care",
             "econoQuestion":"How is <b>child care</b><br />a part of the economy?",
                         
-            "option1":"<p>In 2011, The average weekly cost of child care for families with employed mothers was $143.</p>",
+            "option1":"<p>In 2011, the average weekly cost of child care for families with employed mothers was $143.</p>",
             "option1b":"<span>Source: </span>U.S. Census",
                         
-            "option2":"<p>In 2012, the U.S. has 1.3 million child care workers, with a median pay of $19,510.</p>",
+            "option2":"<p>In 2012, the U.S. had 1.3 million child care workers, with a median pay of $19,510.</p>",
             "option2b":"<span>Source: </span>U.S. Department of Labor, Bureau of Labor Statistics",
                         
             "option3":"<p>The child care industry generated $47 billion in revenue in 2013.</p>",
@@ -137,7 +137,7 @@
           	 "option3":"<p>One out of every 18 Americans works, either directly or indirectly, in a travel or tourism-related industry.</p>",
             "option3b":"<span>Source: </span>U.S. Department of Commerce, Select U.S.A.",
                         
-            "option4":"<p>3 out of 4 domestic trips are taken for leisure purposes (77%).</p>",
+            "option4":"<p>Three out of four domestic trips are taken for leisure purposes (77%).</p>",
             "option4b":"<span>Source: </span>U.S. Travel Association, 2013"
 
          },
@@ -176,7 +176,7 @@
             "option3":"<p>The U.S. paint and coatings manufacturing industry has combined annual sales of about $22 billion. House paint represents about 40% of industry revenue.</p>",
             "option3b":"<span>Source: </span>Paint and Coatings Industry Manufacturing Profile, 2014",
                         
-            "option4":"<p>In addition to construction and automotive, other industries that use paints and coatings include marine, wooden furniture, steel, and general industry.</p>",
+            "option4":"<p>In addition to construction and automotive, other industries that use paints and coatings include marine, wooden furniture, steel and general industry.</p>",
             "option4b":"<span>Source: </span>Global Paints and Coatings Market Report, 2013"
 
           },
@@ -196,7 +196,7 @@
             "option3":"<p>It's estimated that at least 35 million kids between 5 and 18 currently play an organized sport each year in the U.S. Of that, 21 million are involved in non-school youth sports.</p>",
             "option3b":"<span>Source: </span>Minnesota Amateur Sports Commission, Athletic Footwear Association, USA Today",
                         
-            "option4":"<p>In 2012, an estimated 1.3 million children sustained a sports-related injury severe enough to send them to a hospital emergency room, at a total cost of $935 million-plus annually.</p>",
+            "option4":"<p>In 2012, an estimated 1.3 million children sustained a sports-related injury severe enough to send them to a hospital emergency room, at a total cost of $935 million.</p>",
             "option4b":"<span>Source: </span>Centers for Disease Control and Prevention"
          },
          {
@@ -209,15 +209,15 @@
             "option1":"<p>For 2011, the gross output of the arts and culture sector of the U.S. economy was $916 billion.</p>",
             "option1b":"<span>Source: </span>U.S. Bureau of Economic Analysis",
                         
-            "option2":"<p>In 2011, motion picture and video industry employed nearly 310,000 workers at $25 billion in compensation.</p>",
+            "option2":"<p>In 2011, the motion picture and video industry employed nearly 310,000 workers at $25 billion in compensation.</p>",
             "option2b":"<span>Source: </span>U.S. Bureau of Economic Analysis",
                         
-            "option3":"<p>The U.S. has over 39,000 movie screens in 2012, according to the National Association of Theatre Owners.</p>",
+            "option3":"<p>The U.S. had over 39,000 movie screens in 2012, according to the National Association of Theatre Owners.</p>",
             "option3b":"<span>Source: </span>National Association of Theatre Owners",
 
                         
             "option4":"<p>Approximately 70% of all Americans go to the movies at least once every year.</p>",
-            "option4b":"<span>Source: </span>Neilsen National Research Group"
+            "option4b":"<span>Source: </span>Nielsen National Research Group"
          },
          {
                      
@@ -248,17 +248,17 @@
             "buttonText":"Play video games",
             "econoQuestion":"How are <b>video games</b> a part<br />of the economy?",
                         
-            "option1":"<p>The U.S. games industry sold $20.7 billion in gaming systems, games, and accessories in 2012.</p>",
+            "option1":"<p>The U.S. games industry sold $20.7 billion in gaming systems, games and accessories in 2012.</p>",
             "option1b":"<span>Source: </span>Entertainment Software Association, 2013",
                         
-            "option2":"<p>Approximately 6 computer and/or video games were sold on average every second of every day of 2012.</p>",
+            "option2":"<p>Approximately six computer and/or video games were sold on average every second of every day of 2012.</p>",
             "option2b":"<span>Source: </span>Entertainment Software Association, 2012",
                         
-            "option3":"<p>The global Mobile gaming revenue is estimated to reach $14.4 billion by 2017.</p>",
+            "option3":"<p>The global mobile gaming revenue is estimated to reach $14.4 billion by 2017.</p>",
             "option3b":"<span>Source: </span>Price Waterhouse Coopers, 2012",
 
                         
-            "option4":"<p>51% of U.S. households own a dedicated game console and those who do, own an average of 2 consoles.</p>",
+            "option4":"<p>51% of U.S. households own a dedicated game console, and those who do own an average of two consoles.</p>",
             "option4b":"<span>Source: </span>Entertainment Software Association, 2013"
          },
        
@@ -268,7 +268,7 @@
             "buttonText":"Work in the&nbsp;garden",
             "econoQuestion":"How is <b>gardening</b> a part<br />of the economy?",
                         
-            "option1":"<p>Lawn and garden equipment and supply stores in the United States employ over 140,000 people.</p>",
+            "option1":"<p>Lawn and garden equipment and supply stores in the U.S. employ over 140,000 people.</p>",
             "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2012",
                         
             "option2":"<p>Americans spend more than $29 billion per year at lawn and garden stores.</p>",
@@ -298,7 +298,7 @@
             "option3b":"<span>Source: </span>Bureau of Labor Statistics, 2012",
 
                         
-            "option4":"<p>A 45-year-old worker earning $50,000 a year who suffers permanent disability, could lose $1,000,000 in future earnings.</p>",
+            "option4":"<p>A 45-year-old worker earning $50,000 a year who suffers permanent disability could lose $1 million in future earnings.</p>",
             "option4b":"<span>Source: </span>America's Health Insurance Plans, 2013"
                      
           }
