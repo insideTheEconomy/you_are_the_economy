@@ -11,17 +11,17 @@
             "buttonText":"Ride a bicycle",
             "econoQuestion":"How does <b>Riding a bicycle</b><br />affect the economy?",
                         
-            "option1":"<p>Bicycles and bicycle parts sales for the U.S. bicycle industry add up to over $6 billion yearly.</p>",
-            "option1b":"<span>Source: </span>The National Bicycle Dealers Association, 2012",
+            "option1":"<p>Bicycles and parts sales for the U.S. bicycle industry add up to over $6 billion yearly.</p>",
+            "option1b":"<span>Source: </span>The National Bicycle Dealers Association, 2015",
                         
-            "option2":"<p>Bicycle repairers made on average $12.15 an hour (in 2012). There are just over 10,000 employed in the U.S.</p>",
-            "option2b":"<span>Source: </span>U.S. Dept of Labor, BLS, Occupational Employment Statistics, 2012",
+            "option2":"<p>Bicycle repairers made on average $13.28 an hour. There are just over 12,500 employed in the U.S.</p>",
+            "option2b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
-            "option3":"<p>There are over 4,000 bike shops in the United States, with just over $6 billion in sales in 2012.</p>",
-            "option3b":"<span>Source: </span>Bicycle Dealers Association, 2012",
+            "option3":"<p>There are over 3,700 bike shops in the U.S., with just over $6 billion dollars in sales in 2014.</p>",
+            "option3b":"<span>Source: </span>National Bicycle Dealers Association, 2015",
  
-            "option4":"<p>The annual cost of operating a bicycle is approximately $308 a year, less than the average monthly car payment.</p>",
-            "option4b":"<span>Source: </span>League of American Bicyclists, 2010"
+            "option4":"<p>A total of 36 million Americans age 7 and older were estimated to have ridden a bicycle six times or more in 2015.</p>",
+            "option4b":"<span>Source: </span>National Bicycle Dealers Association, 2015"
 
          },
          {
@@ -30,17 +30,17 @@
             "buttonText":"Shop for clothes",
             "econoQuestion":"How does <b>buying clothes</b><br />affect the economy?",
                         
-            "option1":"<p>Americans spend around $500 billion on clothes and shoes each month.</p>",
-            "option1b":"<span>Source: </span>Bureau of Economic Analysis",
+            "option1":"<p>Americans spend around $380 billion annually on clothes and shoes.</p>",
+            "option1b":"<span>Source: </span>Bureau of Economic Analysis, 2016",
                         
-            "option2":"<p>In 2010, the average household spent $1,700 on apparel, footwear and related products.</p>",
-            "option2b":"<span>Source: </span>U.S. Bureau of Labor Statistics",
+            "option2":"<p>In 2015, the average household spent $1,846 on apparel, footwear and related products.</p>",
+            "option2b":"<span>Source: </span>U.S. Bureau of Labor Statistics, 2016",
                         
-            "option3":"<p>Employment in the U.S. apparel manufacturing industry has declined from about 900,000 jobs in 1990 to 150,000 in 2011.</p>",
-            "option3b":"<span>Source: </span>U.S. Bureau of Labor Statistics",
+            "option3":"<p>Employment in the U.S. apparel manufacturing industry has declined from about 900,000 jobs in 1990 to 133,000 in 2016.</p>",
+            "option3b":"<span>Source: </span>U.S. Bureau of Labor Statistics, 2016",
 
-            "option4":"<p>Fashion accounts for roughly 39% of teen budgets.</p>",
-            "option4b":"<span>Source: </span>Piper Jaffray Market Research, 2013"
+            "option4":"<p>Fashion accounts for roughly 19 percent of teen budgets.</p>",
+            "option4b":"<span>Source: </span>Piper Jaffray Market Research, 2016"
 
          },
          {
@@ -49,17 +49,17 @@
             "buttonText":"Go to<br />school",
             "econoQuestion":"How are <b>schools</b> a part<br />of the economy?",
                         
-            "option1":"<p>High-quality schools can increase the value of nearby homes.</p>",
-            "option1b":"<span>Source: </span><em>Federal Reserve Bank of St. Louis Review,</em> May/June 2010",
+            "option1":"<p>In 2015, the median earnings of young adult high school graduates ($30,500) were 22 percent higher than those of young adults who did not complete high school ($25,000).</p>",
+            "option1b":"<span>Source: </span><em>National Center for Education Statistics, 2017",
                         
-            "option2":"<p>The average household with school-age children spends more than $600 on back-to-school apparel, shoes, supplies and electronics each year.</p>",
-            "option2b":"<span>Source: </span>National Retail Federation with Prosper Insights & Analytics, 2013",
+            "option2":"<p>The average household with school-age children spends more than $670 on back-to-school apparel, shoes, supplies and electronics each year.</p>",
+            "option2b":"<span>Source: </span>National Retail Federation with Prosper Insights & Analytics, 2016",
                         
-            "option3":"<p>Schools employ teachers, bus drivers, food service workers, facilities workers, healthcare workers and many more.</p>",
-            "option3b":" ",
+            "option3":"<p>Between 2000 and 2015, total undergraduate enrollment in degree-granting postsecondary institutions increased by 30 percent (from 13.2 million to 17.0 million).</p>",
+            "option3b":"<span>Source: </span>National Center for Education Statistics, 2017",
 		                
-            "option4":"<p>Schools buy goods and services, such as textbooks, desks, computers and whiteboards, which add to the overall economy.</p>",
-            "option4b":" "
+            "option4":"<p>More than one out of four college students (28 percent) are enrolled in an online/distance learning course.</p>",
+            "option4b":"<span>Source: </span>U.S. Department of Education, 2016"
          },
          {
             "myId":"3",
@@ -67,17 +67,17 @@
             "buttonText":"Use transport",
             "econoQuestion":"How does <b>transportation</b><br />affect the economy?",
                         
-            "option1":"<p>The average commute in 2009 was 11.8 miles and took 24 minutes.</p>",
-            "option1b":"<span>Source: </span>U.S. Dept. of Transportation",
+            "option1":"<p>The average U.S. domestic round-trip air fare has decreased from $472 in 2000 to $349 in 2016 (using 2016 constant dollars).</p>",
+            "option1b":"<span>Source: </span>Bureau of Transportation Statistics, 2017 ",
                         
-            "option2":"<p>Atlanta is the busiest airport in the world, with over 90 million passengers in 2012.</p>",
-            "option2b":"<span>Source: </span>U.S. Dept. of Transportation",
+            "option2":"<p>Atlanta is the No. 1 airport in the world with over 104 million passengers in 2016.</p>",
+            "option2b":"<span>Source: </span>Airports Council International, 2017 ",
                         
-            "option3":"<p>Transportation spending consumed 10% of the U.S. GDP in 2011.</p>",
-            "option3b":"<span>Source: </span>U.S. Dept. of Transportation",
+            "option3":"<p>Transportation spending consumed 9 percent of the U.S. GDP in 2015.</p>",
+            "option3b":"<span>Source: </span>Bureau of Transportation Statistics, 2017",
 
-            "option4":"<p>Transportation and related industries employed 12.3 million workers in 2011.</p>",
-            "option4b":"<span>Source: </span>U.S. Dept. of Transportation"
+            "option4":"<p>Transportation and related industries employed 9.7 million workers in 2016.</p>",
+            "option4b":"<span>Source: </span>Bureau of Labor Statistics, 2016"
 
          },
          {
@@ -86,17 +86,17 @@
             "buttonText":"Take the dog for<br />a walk",
             "econoQuestion":"How do <b>pets</b><br />affect the economy?",
                         
-            "option1":"<p>Americans spent $61.4 billion on their pets in 2011.</p>",
-            "option1b":"<span>Source: </span>Bureau of Labor Statistics",
+            "option1":"<p>Americans spent $66.75 billion on their pets in 2016.</p>",
+            "option1b":"<span>Source: </span>American Pet Products Association, 2017",
                         
-            "option2":"<p>More than 65% of households have a pet.</p>",
-            "option2b":"<span>Source: </span>American Pet Products Association",
+            "option2":"<p>More than 68 percent of households have a pet.</p>",
+            "option2b":"<span>Source: </span>American Pet Products Association, 2017",
                         
-            "option3":"<p>In 2013, Americans spent an estimated $330 million on Halloween costumes for their pets.</p>",
-            "option3b":"<span>Source: </span>National Retail Federation",
+            "option3":"<p>In 2015, Americans spent an estimated $350 million on Halloween costumes for their pets. </p>",
+            "option3b":"<span>Source: </span>National Retail Federation, 2016",
             
-            "option4":"<p>Pet food and treat sales are more than $20 billion a year in the United States.</p>",
-            "option4b":"<span>Source: </span>American Pet Products Association"
+            "option4":"<p>Pet food and treat sales are more than $28 billion a year in the U.S.</p>",
+            "option4b":"<span>Source: </span>American Pet Products Association, 2017"
 
 
            
@@ -107,18 +107,18 @@
             "buttonText":"Take&nbsp;child<br />to<br />child&nbsp;care",
             "econoQuestion":"How is <b>child care</b><br />a part of the economy?",
                         
-            "option1":"<p>In 2011, the average weekly cost of child care for families with employed mothers was $143.</p>",
-            "option1b":"<span>Source: </span>U.S. Census",
+            "option1":"<p>In 2016, the average cost of care at a child care center was $196 per week.</p>",
+            "option1b":"<span>Source: </span>Care.com Cost of Care survey, 2016",
                         
-            "option2":"<p>In 2012, the U.S. had 1.3 million child care workers, with a median pay of $19,510.</p>",
-            "option2b":"<span>Source: </span>U.S. Department of Labor, Bureau of Labor Statistics",
+            "option2":"<p>n 2016, the U.S. had 1.3 million child care workers, with a median pay of $21,170.</p>",
+            "option2b":"<span>Source: </span>U.S. Department of Labor, Bureau of Labor Statistics, 2016",
                         
-            "option3":"<p>The child care industry generated $47 billion in revenue in 2013.</p>",
-            "option3b":"<span>Source: </span>IBISWorld, Day Care Market Research Report, 2013",
+            "option3":"<p>The child care industry generated $48 billion in revenue in 2016.</p>",
+            "option3b":"<span>Source: </span>IBISWorld, Day Care Market Research Report, 2016",
 
                         
-            "option4":"<p>The U.S. child care services industry includes about 53,000 commercial facilities plus about 21,000 facilities run by nonprofit organizations.</p>",
-            "option4b":"<span>Source: </span>First Research, Hoover’s"
+            "option4":"<p>The U.S. child care services industry includes about 54,000 commercial facilities plus about 21,000 facilities run by nonprofit organizations.</p>",
+            "option4b":"<span>Source: </span>First Research, 2017"
 
                      
           },
@@ -128,17 +128,17 @@
             "buttonText":"Take a vacation",
             "econoQuestion":"How is <b>taking a vacation</b><br />a part of the economy?",
                         
-            "option1":"<p>Vacation travel in the U.S. accounts for around $600 billion in spending each year.</p>",
-            "option1b":"<span>Source: </span>U.S. Travel Association, 2013",
+            "option1":"<p>Vacation travel in the U.S. accounted for $683 billion in spending in 2016. </p>",
+            "option1b":"<span>Source: </span>U.S. Travel Association, 2017",
                         
-            "option2":"<p>Small businesses in the United States employ more than half (53%) of the travel industry workforce, or 3.9 million workers.</p>",
-            "option2b":"<span>Source: </span>U.S. Travel Association, 2012",
+            "option2":"<p>More than half (54 percent) of employees left vacation time unused leading to 662 million unused vacation days in 2016.</p>",
+            "option2b":"<span>Source: </span>U.S. Travel Association, 2017",
                         
-          	 "option3":"<p>One out of every 18 Americans works, either directly or indirectly, in a travel or tourism-related industry.</p>",
-            "option3b":"<span>Source: </span>U.S. Department of Commerce, Select U.S.A.",
+          	 "option3":"<p>One out of every nine U.S jobs depends on travel and tourism.</p>",
+            "option3b":"<span>Source: </span>U.S. Travel Association, 2017",
                         
-            "option4":"<p>Three out of four domestic trips are taken for leisure purposes (77%).</p>",
-            "option4b":"<span>Source: </span>U.S. Travel Association, 2013"
+            "option4":"<p>Nearly four out of five domestic trips are taken for leisure purposes (79 percent).</p>",
+            "option4b":"<span>Source: </span>U.S. Travel Association, 2017"
 
          },
          {
@@ -148,17 +148,17 @@
             "buttonText":"Eat at a restaurant",
             "econoQuestion":"How is <b>eating in a restaurant</b><br />a part of the economy?",
                         
-            "option1":"<p>In 2012, restaurant industry sales totaled $683.4 billion.</p>",
-            "option1b":"<span>Source: </span>National Restaurant Association, 2013",
+            "option1":"<p>Projected restaurant industry sales for 2017 are $798.7 billion, 4 percent of the U.S. GDP.</p>",
+            "option1b":"<span>Source: </span>National Restaurant Association, 2017",
                         
-            "option2":"<p>There were over 630,000 restaurants in the U.S. in 2013.</p>",
-            "option2b":"<span>Source: </span>The NPD Group, 2013",
+            "option2":"<p>There were over 624,000 restaurants in the U.S. in 2016.</p>",
+            "option2b":"<span>Source: </span>The NPD Group, 2016",
                         
-            "option3":"<p>The U.S. employs just over 1 million restaurant cooks who earn an average of $11.20/hour.</p>",
-            "option3b":"<span>Source: </span>U.S. Dept. of Labor, BLS,  May 2012",
+            "option3":"<p>Restaurants in the U.S. employ just over 2.2 million cooks who earn an average of $10.99 an hour.</p>",
+            "option3b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
 
-            "option4":"<p>Consumers spend 40% of their food costs on eating out.</p>",
-            "option4b":"<span>Source: </span>Bureau of Labor Statistics, 2012"
+            "option4":"<p>One in three Americans had their first job experience in a restaurant.</p>",
+            "option4b":"<span>Source: </span>National Restaurant Association, 2017"
          },
          {
                      
@@ -167,17 +167,17 @@
             "buttonText":"Paint the kitchen",
             "econoQuestion":"How does <b>painting</b><br />affect the economy?",
                         
-            "option1":"<p>More than 300,000 painters are employed in U.S. construction and maintenance.</p>",
-            "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2012",
+            "option1":"<p>vMore than 475,000 painters are employed in the U.S.</p>",
+            "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
-            "option2":"<p>Over 65 million gallons of house paint are sold in the U.S. every year.</p>",
+            "option2":"<p>The median annual wage for painting and coating workers is $35,300.</p>",
             "option2b":"<span>Source: </span>The Environmental Protection Agency",
                         
-            "option3":"<p>The U.S. paint and coatings manufacturing industry has combined annual sales of about $22 billion. House paint represents about 40% of industry revenue.</p>",
-            "option3b":"<span>Source: </span>Paint and Coatings Industry Manufacturing Profile, 2014",
+            "option3":"<p>The U.S. paint and coatings manufacturing industry has combined annual sales of about $28 billion. House paint represents about 40 percent of industry revenue.</p>",
+            "option3b":"<span>Source: </span>Paint and Coatings Industry Manufacturing Profile, 2017",
                         
-            "option4":"<p>In addition to construction and automotive, other industries that use paints and coatings include marine, wooden furniture, steel and general industry.</p>",
-            "option4b":"<span>Source: </span>Global Paints and Coatings Market Report, 2013"
+            "option4":"<p>In addition to construction and automotive, other industries that use paints and coatings include marine, wooden furniture, steel and general construction.</p>",
+            "option4b":"<span>Source: </span>Global Paints and Coatings Market Report, 2017"
 
           },
          {
@@ -187,17 +187,17 @@
             "buttonText":"Play<br />soccer",
             "econoQuestion":"How is <b>soccer</b> a part of the economy?",
                         
-            "option1":"<p>Annual registration of U.S. Youth Soccer players has grown from 103,432 in 1974 to 3,020,633 in 2012.</p>",
-            "option1b":"<span>Source: </span>“Key Statistics,” U.S. Youth Soccer, 2012",
+            "option1":"<p>Soccer players make up 38 of the top 100 most famous athletes in the world based upon salary, endorsements, Twitter followers and Google search results.</p>",
+            "option1b":"<span>Source: </span>“ESPN, 2017",
                         
-            "option2":"<p>The expansion rights for the New York City MLS team were purchased for an estimated $100 million dollars.</p>",
-            "option2b":"<span>Source: </span><em>New York Times</em>, May 22, 2013",
+            "option2":"<p>As of 2017, expansion rights for a new Major League Soccer (MLS) team cost $150 million dollars.</p>",
+            "option2b":"<span>Source: </span><em>MLS, 2017",
                         
-            "option3":"<p>It's estimated that at least 35 million kids between 5 and 18 currently play an organized sport each year in the U.S. Of that, 21 million are involved in non-school youth sports.</p>",
-            "option3b":"<span>Source: </span>Minnesota Amateur Sports Commission, Athletic Footwear Association, USA Today",
+            "option3":"<p>The 2018 FIFA World Cup is expected to result in more than 100,000 jobs as well as the construction and renovation of 10 stadiums in the host country, Russia. </p>",
+            "option3b":"<span>Source: </span>FIFA, 2017",
                         
-            "option4":"<p>In 2012, an estimated 1.3 million children sustained a sports-related injury severe enough to send them to a hospital emergency room, at a total cost of $935 million.</p>",
-            "option4b":"<span>Source: </span>Centers for Disease Control and Prevention"
+            "option4":"<p>Approximately 15.8 million people in the U.S. played soccer in 2016.</p>",
+            "option4b":"<span>Source: </span>Statista, 2017"
          },
          {
             
@@ -206,18 +206,18 @@
             "buttonText":"Go to a movie",
             "econoQuestion":"How does <b>going to the movies</b><br />affect the economy?",
                         
-            "option1":"<p>For 2011, the gross output of the arts and culture sector of the U.S. economy was $916 billion.</p>",
-            "option1b":"<span>Source: </span>U.S. Bureau of Economic Analysis",
+            "option1":"<p>For 2014, the gross output of the arts and culture sector of the U.S. economy was $1.1 trillion.</p>",
+            "option1b":"<span>Source: </span>Bureau of Economic Analysis, 2017",
                         
-            "option2":"<p>In 2011, the motion picture and video industry employed nearly 310,000 workers at $25 billion in compensation.</p>",
-            "option2b":"<span>Source: </span>U.S. Bureau of Economic Analysis",
+            "option2":"<p>IIn 2016, the motion picture and video industry employed over 422,000 workers at $25.8 billion in compensation.</p>",
+            "option2b":"<span>Source: </span>Bureau of Labor Statistics, 2017",
                         
-            "option3":"<p>The U.S. had over 39,000 movie screens in 2012, according to the National Association of Theatre Owners.</p>",
-            "option3b":"<span>Source: </span>National Association of Theatre Owners",
+            "option3":"<p>The U.S. had over 40,000 movie screens in 2016.</p>",
+            "option3b":"<span>Source: </span>National Association of Theatre Owners, 2017",
 
                         
-            "option4":"<p>Approximately 70% of all Americans go to the movies at least once every year.</p>",
-            "option4b":"<span>Source: </span>Nielsen National Research Group"
+            "option4":"<p>Approximately 71 percent of all Americans go to the movies at least once every year.</p>",
+            "option4b":"<span>Source: </span>Motion Picture Association of America, 2016"
          },
          {
                      
@@ -226,18 +226,18 @@
             "buttonText":"Play golf",
             "econoQuestion":"How is <b>golf</b> a part of<br />the economy?",
                         
-            "option1":"<p>In 2011, Americans spent $5.6 billion on golf supplies.</p>",
-            "option1b":"<span>Source: </span>The 2011 Golf Economy Report",
+            "option1":"<p>25 million golfers played at least one round of golf in the U.S. in 2016.</p>",
+            "option1b":"<span>Source: </span>National Golf Foundation, 2017",
                         
-            "option2":"<p>In 2011, golf in the United States generated an estimated $68.8 billion of goods and services.</p>",
-            "option2b":"<span>Source: </span>The 2011 Golf Economy Report",
+            "option2":"<p>Golf courses employ grounds maintenance workers whose median pay is $26,830. Most do not need formal education for the job.</p>",
+            "option2b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
-            "option3":"<p>Golf courses employ grounds maintenance workers whose median pay is $23,970. Most do not need formal education for the job.</p>",
-            "option3b":"<span>Source: </span>U.S. Dept of Labor, BLS, 2012",
+            "option3":"<p>There were an estimated 455 million rounds of golf played in the U.S. in 2015.</p>",
+            "option3b":"<span>Source: </span>World Golf Foundation, 2016",
 
            
-            "option4":"<p>There were an estimated 463 million rounds of golf played in the U.S. in 2011.</p>",
-            "option4b":"<span>Source: </span>National Golf Foundation"
+            "option4":"<p>Youth golf participation increased by 60.4 percent in 2015, more than any other sport.</p>",
+            "option4b":"<span>Source: </span>Sports and Fitness Industry Association, 2016"
 
 
           },
@@ -248,17 +248,17 @@
             "buttonText":"Play video games",
             "econoQuestion":"How are <b>video games</b> a part<br />of the economy?",
                         
-            "option1":"<p>The U.S. games industry sold $20.7 billion in gaming systems, games and accessories in 2012.</p>",
-            "option1b":"<span>Source: </span>Entertainment Software Association, 2013",
+            "option1":"<p>The U.S. games industry sold $30.4 billion in gaming systems, games and accessories in 2016..</p>",
+            "option1b":"<span>Source: </span>Entertainment Software Association, 2017",
                         
-            "option2":"<p>Approximately six computer and/or video games were sold on average every second of every day of 2012.</p>",
-            "option2b":"<span>Source: </span>Entertainment Software Association, 2012",
+            "option2":"<p>Employees in the video game industry earned an average compensation of $97,000 in 2016.</p>",
+            "option2b":"<span>Source: </span>Entertainment Software Association, 2017",
                         
-            "option3":"<p>Global mobile gaming revenue is estimated to reach $14.4 billion by 2017.</p>",
-            "option3b":"<span>Source: </span>Price Waterhouse Coopers, 2012",
+            "option3":"<p>Global mobile gaming revenue exceeded $41 billion in 2016.</p>",
+            "option3b":"<span>Source: </span>SuperData Research, 2016",
                         
-            "option4":"<p>51% of U.S. households own a dedicated game console, and those who do own an average of two consoles.</p>",
-            "option4b":"<span>Source: </span>Entertainment Software Association, 2013"
+            "option4":"<p>67 percent of U.S. households own a device that is used to play video games.</p>",
+            "option4b":"<span>Source: </span>Entertainment Software Association, 2017"
          },
        
          {
@@ -267,18 +267,18 @@
             "buttonText":"Work in the&nbsp;garden",
             "econoQuestion":"How is <b>gardening</b> a part<br />of the economy?",
                         
-            "option1":"<p>Lawn and garden equipment and supply stores in the U.S. employ over 140,000 people.</p>",
-            "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2012",
+            "option1":"<p>Lawn and garden equipment and supply stores in the U.S. employ over 160,000 people.</p>",
+            "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
-            "option2":"<p>Americans spend more than $29 billion per year at lawn and garden stores.</p>",
-            "option2b":"<span>Source: </span>The National Gardening Survey, 2012",
+            "option2":"<p>Americans spend over $36 billion per year at lawn and garden stores. </p>",
+            "option2b":"<span>Source: </span>The National Gardening Survey, 2017",
                         
-            "option3":"<p>Total annual sales at U.S. farmers' markets are estimated at $1 billion. </p>",
-            "option3b":"<span>Source: </span>USDA Agricultural Marketing Service",
+            "option3":"<p>Total annual sales at U.S. farmers' markets are estimated at $1.5 billion. </p>",
+            "option3b":"<span>Source: </span>The National Gardening Survey, 2017",
 
                         
-            "option4":"<p>Nearly half of Americans have gardened within the last year.</p>",
-            "option4b":"<span>Source: </span>Scarborough Market Research Study, 2012"
+            "option4":"<p>Three out of four U.S. households have gardened within the last year.</p>",
+            "option4b":"<span>Source: </span>The National Gardening Survey, 20"
                      
           },
          {
@@ -287,18 +287,18 @@
             "buttonText":"Go to the doctor",
             "econoQuestion":"How does <b>going to the doctor</b><br />affect the economy?",
                         
-            "option1":"<p>Americans spend more than $3 trillion on healthcare each year.</p>",
-            "option1b":"<span>Source: </span>Deloitte Center for Health Solutions Survey, 2010",
+            "option1":"<p>Americans spend more than $3.2 trillion on healthcare each year.</p>",
+            "option1b":"<span>Source: </span>Centers for Medicare and Medicaid Services, 2017",
                         
-            "option2":"<p>More than 1 billion insulin syringes and lancets are manufactured each year for use by diabetics.</p>",
-            "option2b":"<span>Source: </span>www.diabeticseniors.com",
+            "option2":"<p>More than 1 billion insulin syringes and lancets are manufactured each year for use by diabetics..</p>",
+            "option2b":"<span>Source: </span>www.diabeticseniors.com, 2017",
                         
-            "option3":"<p>Employment of physicians and surgeons is projected to grow 18% from 2012 to 2022, faster than the average for all occupations.</p>",
-            "option3b":"<span>Source: </span>Bureau of Labor Statistics, 2012",
+            "option3":"<p>Employment of physicians and surgeons is projected to grow 18 percent from 2014 to 2024, faster than the average for all occupations.</p>",
+            "option3b":"<span>Source: </span>Bureau of Labor Statistics, 2017",
 
                         
             "option4":"<p>A 45-year-old worker earning $50,000 a year who suffers permanent disability could lose $1 million in future earnings.</p>",
-            "option4b":"<span>Source: </span>America's Health Insurance Plans, 2013"
+            "option4b":"<span>Source: </span>America's Health Insurance Plans, 2016"
                      
           }
 
