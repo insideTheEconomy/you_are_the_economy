@@ -50,7 +50,7 @@
             "econoQuestion":"How are <b>schools</b> a part<br />of the economy?",
                         
             "option1":"<p>In 2015, the median earnings of young adult high school graduates ($30,500) were 22 percent higher than those of young adults who did not complete high school ($25,000).</p>",
-            "option1b":"<span>Source: </span><em>National Center for Education Statistics, 2017",
+            "option1b":"<span>Source: </span>National Center for Education Statistics, 2017",
                         
             "option2":"<p>The average household with school-age children spends more than $670 on back-to-school apparel, shoes, supplies and electronics each year.</p>",
             "option2b":"<span>Source: </span>National Retail Federation with Prosper Insights & Analytics, 2016",
@@ -108,7 +108,7 @@
             "econoQuestion":"How is <b>child care</b><br />a part of the economy?",
                         
             "option1":"<p>In 2016, the average cost of care at a child care center was $196 per week.</p>",
-            "option1b":"<span>Source: </span>Care.com Cost of Care survey, 2016",
+            "option1b":"<span>Source: </span>Care.com Cost of Care Survey, 2016",
                         
             "option2":"<p>n 2016, the U.S. had 1.3 million child care workers, with a median pay of $21,170.</p>",
             "option2b":"<span>Source: </span>U.S. Department of Labor, Bureau of Labor Statistics, 2016",
@@ -167,11 +167,11 @@
             "buttonText":"Paint the kitchen",
             "econoQuestion":"How does <b>painting</b><br />affect the economy?",
                         
-            "option1":"<p>vMore than 475,000 painters are employed in the U.S.</p>",
+            "option1":"<p>More than 475,000 painters are employed in the U.S.</p>",
             "option1b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
             "option2":"<p>The median annual wage for painting and coating workers is $35,300.</p>",
-            "option2b":"<span>Source: </span>The Environmental Protection Agency",
+            "option2b":"<span>Source: </span>Bureau of Labor Statistics, 2016",
                         
             "option3":"<p>The U.S. paint and coatings manufacturing industry has combined annual sales of about $28 billion. House paint represents about 40 percent of industry revenue.</p>",
             "option3b":"<span>Source: </span>Paint and Coatings Industry Manufacturing Profile, 2017",
@@ -188,10 +188,10 @@
             "econoQuestion":"How is <b>soccer</b> a part of the economy?",
                         
             "option1":"<p>Soccer players make up 38 of the top 100 most famous athletes in the world based upon salary, endorsements, Twitter followers and Google search results.</p>",
-            "option1b":"<span>Source: </span>“ESPN, 2017",
+            "option1b":"<span>Source: </span>ESPN, 2017",
                         
             "option2":"<p>As of 2017, expansion rights for a new Major League Soccer (MLS) team cost $150 million dollars.</p>",
-            "option2b":"<span>Source: </span><em>MLS, 2017",
+            "option2b":"<span>Source: </span>MLS, 2017",
                         
             "option3":"<p>The 2018 FIFA World Cup is expected to result in more than 100,000 jobs as well as the construction and renovation of 10 stadiums in the host country, Russia. </p>",
             "option3b":"<span>Source: </span>FIFA, 2017",
@@ -248,7 +248,7 @@
             "buttonText":"Play video games",
             "econoQuestion":"How are <b>video games</b> a part<br />of the economy?",
                         
-            "option1":"<p>The U.S. games industry sold $30.4 billion in gaming systems, games and accessories in 2016..</p>",
+            "option1":"<p>The U.S. games industry sold $30.4 billion in gaming systems, games and accessories in 2016.</p>",
             "option1b":"<span>Source: </span>Entertainment Software Association, 2017",
                         
             "option2":"<p>Employees in the video game industry earned an average compensation of $97,000 in 2016.</p>",
@@ -274,11 +274,11 @@
             "option2b":"<span>Source: </span>The National Gardening Survey, 2017",
                         
             "option3":"<p>Total annual sales at U.S. farmers' markets are estimated at $1.5 billion. </p>",
-            "option3b":"<span>Source: </span>The National Gardening Survey, 2017",
+            "option3b":"<span>Source: </span>USDA, Agricultural Marketing Service, 2016",
 
                         
             "option4":"<p>Three out of four U.S. households have gardened within the last year.</p>",
-            "option4b":"<span>Source: </span>The National Gardening Survey, 20"
+            "option4b":"<span>Source: </span>The National Gardening Survey, 2016"
                      
           },
          {
